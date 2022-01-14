@@ -1,0 +1,2 @@
+- Run the batch file as administrator.
+- Follow the on-screen instuctions and do accordingly.
